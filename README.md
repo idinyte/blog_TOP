@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple project for the purpose of getting accustomed to Ruby on Rails and pushing the application online. I was too lazy to add CSS as this was not the point of the project
 
-Things you may want to cover:
+# Project link (first open takes some time)
+https://fathomless-mountain-52961.herokuapp.com/
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Assignment link
+https://www.theodinproject.com/lessons/ruby-on-rails-blog-app
